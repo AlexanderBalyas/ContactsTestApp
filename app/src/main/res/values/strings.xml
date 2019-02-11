@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Contacts app</string>
+    <string name="server_client_id">1070258001056-ngihhlbjhrko1p1ljhm4neb1pcspskin.apps.googleusercontent.com</string>
+
+
+    <string name="empty_contacts_label">You don\'t have any contact. Click + to create one.</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="phone">Phone</string>
+    <string name="add_phone">Add phone</string>
+    <string name="email">Email</string>
+    <string name="add_email">Add email</string>
+    <string name="create_user">Create user</string>
+    <string name="edit_user">Edit user</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="phones">Phones:</string>
+    <string name="emails">Emails:</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="success_delete_label">Contact has been deleted successfully</string>
+    <string name="something_wrong">Something went wrong</string>
+    <string name="success_create_label">Contact has been created</string>
+    <string name="validation_error">Please type all fields</string>
+    <string name="success_edit_label">Contact has been edited</string>
+    <string name="delete_phone">Delete phone</string>
+    <string name="delete_email">Delete email</string>
+    <string name="filter">Filter</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_to_contact_app">Welcome to contact app</string>
+    <string name="choose_filter">Choose filter:</string>
+
+    <string name="filter_creation_date">Creation date</string>
+    <string name="filter_name_asc">Name ASC</string>
+    <string name="filter_name_desc">Name DESC</string>
+    <string name="filter_surname_asc">Surname ASC</string>
+    <string name="filter_surname_desc">Surname DESC</string>
+
+</resources>
